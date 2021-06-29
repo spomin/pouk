@@ -4,4 +4,4 @@ Stran je namenjena zbiranju spominov in gradiv o pouku računalništva in inform
 
 Gradiva postavite v ustrezno (pod) področje.
 
-Spomine zapišite na Wiki
+Spomine zapišite na Wiki https://github.com/spomin/pouk/wiki .
