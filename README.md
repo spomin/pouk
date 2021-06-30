@@ -2,7 +2,7 @@
 
 Stran je namenjena zbiranju spominov in gradiv o pouku računalništva in informatike.
 Vsebino lahko spreminjajo le <b>sodelavci</b> projekta. Sodelavce moram posebej povabiti.
-Kogar sodelovanje zanima naj mi sporoči po e-pošti na <t>vladimir.batagelj@fmf.uni-lj.si</t> .
+Kogar sodelovanje zanima naj mi sporoči po e-pošti na <tt>vladimir.batagelj@fmf.uni-lj.si</tt> .
 
 Gradiva postavite v ustrezno (pod) področje.
 
